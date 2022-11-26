@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BiankaPal
-- 👀 I’m interested in Data Science, Machine Learning, Python, SQL and Biology.
-- 🌱 I’m currently learning about formal logic and algorithmic thinking.
+- 👀 I’m interested in Data Science, Machine Learning, Python, SQL, Logic, Maths, Algorithmic Thinking and the Natural Sciences.
+- 🌱 I’m currently learning how to use BigQuery, Looker and DBT.
 - 💞️ I’m looking to collaborate on anything that will help me write cleaner and more elegant code.
-- 📫 How to reach me: via Twitter, my handle is @8ung_8ung.
+- 📫 How to reach me
 
 <!---
 BiankaPal/BiankaPal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
