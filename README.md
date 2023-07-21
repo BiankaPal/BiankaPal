@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BiankaPal
 - 👀 I’m interested in Data Science, Machine Learning, Python, SQL, Logic, Maths, Algorithmic Thinking and the Natural Sciences.
-- 🌱 I’m currently learning how to use BigQuery, Looker and DBT.
+- 🌱 I’m currently learning how to use BigQuery and DBT.
 - 💞️ I’m looking to collaborate on anything that will help me write cleaner and more elegant code.
 - 📫 How to reach me
 
